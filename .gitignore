@@ -1,0 +1,7 @@
+# Ignore Streamlit local secrets
+.streamlit/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+.DS_Store
