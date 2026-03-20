@@ -5,3 +5,4 @@ plotly
 requests
 fpdf2
 tensorflow-cpu
+folium
