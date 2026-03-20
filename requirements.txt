@@ -7,3 +7,4 @@ fpdf2
 tensorflow-cpu
 folium
 streamlit_folium 
+groq
